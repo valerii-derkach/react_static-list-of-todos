@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,kBAAmB,CACpB,MAGC,iBAAkB","file":"main.0ed3cfe9.chunk.css","sourcesContent":[".hero {\n  margin: 20px;\n  border-radius: 10px;\n}\n\n.is-1 {\n  padding: 20px 40px;\n}\n"]}
